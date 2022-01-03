@@ -7,7 +7,7 @@ const Rating = ({ value,text }) => {
       <span style={{
         color: "yellow"
       }}>
-        <i className= {
+        {/* <i className= {
             value >= 1
           ? 'fas fas-star'
           :  value >= 0.5
@@ -15,7 +15,7 @@ const Rating = ({ value,text }) => {
           : "fas fa-start"
         }
         >
-        </i>
+        </i> */}
       </span>
 
       <span style={{
