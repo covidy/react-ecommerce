@@ -6,7 +6,10 @@ const Header = () => {
     <>
       <Navbar bg="dark" expand="lg" variant="dark" collapseOnSelect>
         <Container>
+        <LinkContainer to="/">
           <Navbar.Brand href="#home">Online &nbsp; Shop</Navbar.Brand>
+        </LinkContainer>
+
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
