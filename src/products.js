@@ -24,7 +24,7 @@ const products = [
     rating: 4.0,
     numReviews: 8,
   },
-      {
+  {
     _id: '3',
     name: 'CANNON EOS 80D DSLR CAMERA',
     image: '/images/camera.jpeg',
@@ -36,7 +36,7 @@ const products = [
     rating: 3.5,
     numReviews: 109,
   },
-        {
+  {
     _id: '4',
     name: 'SONY PLAYSTATION 4 PRO WHITE VERSION',
     image: '/images/playstation.jpeg',
@@ -48,7 +48,7 @@ const products = [
     rating: 3.5,
     numReviews: 86,
   },
-          {
+  {
     _id: '5',
     name: 'AMAZON ECHO DOT 3RD GENERATION',
     image: '/images/alexa.jpeg',
@@ -60,7 +60,7 @@ const products = [
     rating: 3.8,
     numReviews: 92,
   },
-            {
+  {
     _id: '6',
     name: 'LOGITECH G-SERIES GAMING MOUSE',
     image: '/images/mouse.jpeg',
@@ -71,6 +71,18 @@ const products = [
     countInStock: 7,
     rating: 3.5,
     numReviews: 68,
+    },
+    {
+    _id: '7',
+    name: 'IPHONE 11 PRO 256GB MEMORY',
+    image: '/images/phone.jpeg',
+    descriptions: 'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 599.99,
+    countInStock: 10,
+    rating: 3.5,
+    numReviews: 94,
   },
 ]
 
