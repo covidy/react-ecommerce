@@ -16,6 +16,7 @@ const Rating = ({ value,text }) => {
         >
         </i>
       </span>
+
       <span style={{
         color: "yellow"
       }}>
@@ -29,6 +30,7 @@ const Rating = ({ value,text }) => {
         >
         </i>
       </span>
+
       <span style={{
         color: "yellow"
       }}>
@@ -42,6 +44,7 @@ const Rating = ({ value,text }) => {
         >
         </i>
       </span>
+
       <span style={{
         color: "yellow"
       }}>
@@ -55,6 +58,7 @@ const Rating = ({ value,text }) => {
         >
         </i>
       </span>
+
       <span
         style={{
         color: "yellow"
@@ -69,6 +73,7 @@ const Rating = ({ value,text }) => {
         >
         </i>
       </span>
+
           <span
         style={{
         color: "yellow"
@@ -83,6 +88,7 @@ const Rating = ({ value,text }) => {
         >
         </i>
       </span>
+
       <span>{
         text && text}
       </span>
