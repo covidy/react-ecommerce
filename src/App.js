@@ -13,8 +13,8 @@ function App() {
       <main classeName="my-3">
         <Container>
           <h1>LATEST PRODUCTS</h1>
+           <HomeScreen />
           <Routes path="/" component={HomeScreen} exact />
-        <HomeScreen />
       </Container>
       </main>
       <Footer />
