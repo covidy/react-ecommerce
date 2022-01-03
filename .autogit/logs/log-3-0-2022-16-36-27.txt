@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jan 03 2022 16:36:27 GMT+0100 (Central European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Components/Rating.jsx
+
+
+Created files:
+* .autogit/logs/log-3-0-2022-16-6-20.txt
+
+
+Deleted files:
+
+
+Renamed files:
