@@ -1,5 +1,6 @@
 import React from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
+import { LinkContainer } from 'react-router-bootstrap'
 
 const Header = () => {
   return (
@@ -21,14 +22,14 @@ const Header = () => {
                 </i>&nbsp; cart
               </Nav.Link>
               </LinkContainer>
-              
-              <LinkContainer>
+
+              <LinkContainer to="/singin">
                 <Nav.Link href="#link">
                   <i className="fas fa-user">
                   </i>&nbsp; singin</Nav.Link>
-                </Nav>
               </LinkContainer>
-            
+              </Nav>
+
           </Navbar.Collapse>
         </Container>
       </Navbar>
